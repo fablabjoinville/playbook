@@ -11,11 +11,11 @@ Você pode baixar o [*profile* de configuração](https://raw.githubusercontent.
 
 É necessário tomar alguns cuidados para não entupir o bico. Primeiro, comente ou apague o comando `M107` e adicione `M106 200` ou `255`:
 
-[![Cura 1](https://raw.githubusercontent.com/fablabjoinville/playbook/master/equipamentos/impressora-3d-delta-kossel-mini/cura-1.png)]
+![Cura 1](https://raw.githubusercontent.com/fablabjoinville/playbook/master/equipamentos/impressora-3d-delta-kossel-mini/cura-1.png)
 
 Também mude o valor do *fan full on at height (mm)* para `0`:
 
-[![Cura 2](https://raw.githubusercontent.com/fablabjoinville/playbook/master/equipamentos/impressora-3d-delta-kossel-mini/cura-2.png)]
+![Cura 2](https://raw.githubusercontent.com/fablabjoinville/playbook/master/equipamentos/impressora-3d-delta-kossel-mini/cura-2.png)
 
 ## Peças de reposição
 
