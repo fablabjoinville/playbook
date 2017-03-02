@@ -10,7 +10,7 @@ Neste repositório documentamos projetos, oficinas, equipamentos e a cultura do 
 
 ## Clubes
 
-* [Clube de Computaço Aplicada](https://github.com/fablabjoinville/computacao-aplicada)
+* [Clube de Computação Aplicada](https://github.com/fablabjoinville/computacao-aplicada)
 
 ## Projetos
 
