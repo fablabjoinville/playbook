@@ -1,7 +1,7 @@
 # Playbook
 
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://www.fablabjoinville.com.br)
-[![Joinville ML](https://img.shields.io/joinville.ml-up-down-green-red/http/shields.io.svg)](http://joinville.ml)
+[![Joinville ML](https://img.shields.io/joinville-ml-up-down-green-red/http/shields.io.svg)](http://joinville.ml/)
 [![Trello](https://img.shields.io/badge/trello-tasks-blue.svg)](https://trello.com/b/HZts44Oi/tarefas)
 [![Slack](https://img.shields.io/badge/slack-community-orange.svg)](https://fablabjoinville.herokuapp.com)
 
