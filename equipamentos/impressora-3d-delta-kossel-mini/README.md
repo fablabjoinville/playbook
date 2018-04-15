@@ -8,6 +8,7 @@
 * [Softwares](#softwares)
 * [Configurações](#configuracoes)
 * [Manutenção](#manutencao)
+* [Referências](#referencias)
 
 ## Descrição
 
@@ -43,3 +44,10 @@ Neste diretório você encontra as peças que dão suporte do extrusor para impr
 
 * hotend-clip
 * suportebico
+
+# Referências
+
+* [Micromake](http://www.micromake.org/)
+* [Repetier](https://www.repetier.com/)
+* [How to start Micromake DIY Delta type 3D printer Auto calibration](https://www.youtube.com/watch?v=4H4AJsgLzyw)
+
