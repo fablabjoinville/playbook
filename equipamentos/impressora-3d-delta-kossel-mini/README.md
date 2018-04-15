@@ -1,5 +1,7 @@
 
-# Delta Kossel Mini
+# Micromake Delta Kossel Mini
+
+Essa impressora é baseada no kit de aprendizado da [Micromake](http://www.micromake.org/), uma empresa chinesa.
 
 Para realizar pesquisas na internet, basta buscar pelos termos `Kossel Mini`, `Micromaker D1`, `MKS Mini`.
 
