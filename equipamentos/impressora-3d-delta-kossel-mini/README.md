@@ -16,7 +16,7 @@ Essa impressora é baseada no kit de aprendizado da [Micromake](http://www.micro
 
 Para realizar pesquisas na internet, basta buscar pelos termos `Kossel Mini`, `Micromaker D1`, `MKS Mini`.
 
-Nós estamos usando o *software* Cura para esta impressora. Você pode fazer o *download* da versão para Mac [aqui](https://drive.google.com/file/d/0B8ssrRNKTrw_SEViX2hucmZJNXM/view?usp=sharing).
+Nós estamos usando o *software* Cura para esta impressora. Você pode fazer o *download* da versão para Mac [aqui](https://drive.google.com/file/d/0B8ssrRNKTrw_SEViX2hucmZJNXM/view?usp=sharing) ou da versão Windowns [aqui](https://ultimaker.com/en/products/ultimaker-cura-software).
 
 ## Como usar
 
@@ -25,6 +25,16 @@ Nós estamos usando o *software* Cura para esta impressora. Você pode fazer o *
 ## Problemas
 
 ## Softwares
+
+O Cura é um software com a funcionalidade de fatiar e configurar a impressão, não sendo usado para modelar o objeto. É necessário que o molde esteja na extensão .stl.
+
+Antes de sair imprimindo é preciso configurar o Cura.
+
+### Configuração
+
+Seguir esses passos para configurar a impressora:
+
+![Config_3D_Kossel-Mini](https://raw.githubusercontent.com/fablabjoinville/playbook/master/equipamentos/impressora-3d-delta-kossel-mini/Config_3D_Kossel-Mini.png)
 
 Você pode baixar o [*profile* de configuração](https://raw.githubusercontent.com/fablabjoinville/playbook/master/equipamentos/impressora-3d-delta-kossel-mini/profile1.ini).
 
