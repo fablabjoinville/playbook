@@ -1,4 +1,3 @@
-
 # Micromake Delta Kossel Mini
 
 * [Descrição](#descrição)
