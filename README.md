@@ -9,6 +9,10 @@ Seja bem vindo!
 
 Neste repositório documentamos projetos, oficinas, equipamentos e a cultura do Fab Lab Joinville. Sinta-se a vontade para abrir um [PR](https://help.github.com/articles/about-pull-requests/) sugerindo alterações nesta documentação ou para adicionar conteúdo novo.
 
+## Regras do Fab Lab
+
+* [Regras Fab Lab Joinville](https://github.com/fablabjoinville/playbook/blob/master/Regras-Fab-Lab.md)
+
 ## Clubes
 
 * [Clube de Computação Aplicada](https://github.com/fablabjoinville/computacao-aplicada)
