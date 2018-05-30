@@ -73,7 +73,7 @@ Ela permite diversos tipo de materiais (filamentos), tais como PLA e ABS, pois d
 
 ## Observações Extremamente Importantes
 
-* Não manusear a impressora 3D sozinho se não estiver na [Lista](https://github.com/fablabjoinville/playbook) de pessoas autorizadas;
+* Não manusear a impressora 3D sozinho se não estiver na [Lista](https://github.com/fablabjoinville/playbook/blob/master/Lista_Membros_Usar_Equipamentos.md) de pessoas autorizadas;
 * Verificar atentamente a primeira camada que será impressa, em caso de alguma falha, apertar no quadrado do canto esquerdo inferior para cancelar a impressão imediatamente;
 * Não abrir a portinha até o final da impressão, nem mudar as configurações da máquina;
 * Ao finalizar a impressão, tirar o objeto e limpar a mesa, jogando no lixo adequado as sobras de filamento;
