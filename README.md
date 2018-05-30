@@ -13,6 +13,10 @@ Neste repositório documentamos projetos, oficinas, equipamentos e a cultura do 
 
 * [Regras Fab Lab Joinville](https://github.com/fablabjoinville/playbook/blob/master/Regras-Fab-Lab.md)
 
+## Lista Membros Aptos para Usar Equipamentos do Fab Lab
+
+* [Lista Membros Equipamentos](https://github.com/fablabjoinville/playbook/blob/master/Lista_Membros_Usar_Equipamentos.md)
+
 ## Clubes
 
 * [Clube de Computação Aplicada](https://github.com/fablabjoinville/computacao-aplicada)
