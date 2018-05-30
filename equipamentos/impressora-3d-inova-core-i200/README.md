@@ -1,7 +1,7 @@
 # Inova Core i200
 
 * [Descrição](#descrição)
-* [Configuração dos Softwares](#tutorial-de-configurações-dos-softwares)
+* [Configuração dos Softwares](#tutorial-de-configuração-dos-softwares)
 * [Funcionamento dos Softwares](#tutorial-de-funcionamento-dos-softwares)
 * [Configuração da Impressora 3D](#tutorial-de-configuração-da-impressora-3d)
 * [Problemas](#problemas)
@@ -27,11 +27,11 @@ Ela permite diversos tipo de materiais (filamentos), tais como PLA e ABS, pois d
 2. Download da [configuração](https://github.com/fablabjoinville/playbook/tree/master/equipamentos/impressora-3d-inova-core-i200/slic3r-config-inova-core-i200.ini) de fatiamento no Slic3r;
 3. Abrir Repetier e fazer a configuração da impressora, conforme imagens abaixo, na ordem de enumeração. Obs: abas sem foto não necessitam de alteração;
 
-![Configuração da impressora no Repetier](https://github.com/fablabjoinville/playbook/tree/master/equipamentos/impressora-3d-inova-core-i200/repetier-config-inova-core-i200.png)
+![Configuração da impressora no Repetier](https://raw.githubusercontent.com/fablabjoinville/playbook/master/equipamentos/impressora-3d-inova-core-i200/repetier-config-inova-core-i200.png)
 
 4. Importar configuração de fatiamento no Slic3r. Seguir imagens abaixo, na ordem de enumeração.
 
-![Configuração de fatiamento no Slic3r](https://github.com/fablabjoinville/playbook/tree/master/equipamentos/impressora-3d-inova-core-i200/slic3r-config-inova-core-i200.png)
+![Configuração de fatiamento no Slic3r](https://raw.githubusercontent.com/fablabjoinville/playbook/master/equipamentos/impressora-3d-inova-core-i200/slic3r-config-inova-core-i200.png)
 
 5. Pronto! Toda a configuração inicial está finalizada!
 
@@ -39,20 +39,20 @@ Ela permite diversos tipo de materiais (filamentos), tais como PLA e ABS, pois d
 
 1. Abrir o molde para impressão no Repetier. Esse molde precisa estar na extensão .stl. Um site chamado [Thingiverse](https://www.thingiverse.com) dispõe de vários moldes, dá uma olhada lá!;
 
-![Como abrir .stl no Repetier](https://github.com/fablabjoinville/playbook/tree/master/equipamentos/impressora-3d-inova-core-i200/repetier-open-stl-inova-core-i200)
+![Como abrir .stl no Repetier](https://raw.githubusercontent.com/fablabjoinville/playbook/master/equipamentos/impressora-3d-inova-core-i200/repetier-open-stl-inova-core-i200.png)
 
 2. Fatiar o molde usando o Slic3r, como mostrado abaixo. Obs: primeiro fazer o que está em vermelho;
 
-![Como fatiar usando Slic3r](https://github.com/fablabjoinville/playbook/tree/master/equipamentos/impressora-3d-inova-core-i200/repetier-slice-slic3r-inova-core-i200)
+![Como fatiar usando Slic3r](https://raw.githubusercontent.com/fablabjoinville/playbook/master/equipamentos/impressora-3d-inova-core-i200/repetier-slice-slic3r-inova-core-i200.png)
 
 3. Nesse momento o Slic3r deve abrir na sua tela. Clique em "Export G-code", abrirá o explorador de arquivos, não selecione outra pasta nem altere o nome do arquivo, apenas clique em "Salvar";
 
-![Export G-code](https://github.com/fablabjoinville/playbook/tree/master/equipamentos/impressora-3d-inova-core-i200/slic3r-gcode-inova-core-i200)
+![Export G-code](https://raw.githubusercontent.com/fablabjoinville/playbook/master/equipamentos/impressora-3d-inova-core-i200/slic3r-gcode-inova-core-i200.png)
 
 4. No canto esquerdo inferior deve aparecer a mensagem "G-code file exported", após isso, feche o Sli3r, seu molde já estará fatiado no Repetier;
 5. Agora basta salvar o arquivo gerado;
 
-![Salvar Arquivo](https://github.com/fablabjoinville/playbook/tree/master/equipamentos/impressora-3d-inova-core-i200/repetier-save-inova-core-i200)
+![Salvar Arquivo](https://raw.githubusercontent.com/fablabjoinville/playbook/master/equipamentos/impressora-3d-inova-core-i200/repetier-save-inova-core-i200.png)
 
 6. Esse arquivo salvo deve ser colocado no pen-drive que encaixará na impressora.
 7. E é isto! Mais uma etapa finalizada. Bora configurar a impressora 3D agora.
@@ -63,7 +63,7 @@ Ela permite diversos tipo de materiais (filamentos), tais como PLA e ABS, pois d
 2. Encaixar o pendrive, na lateral direita, com o arquivo g-code nele;
 3. Abrir a portinha e abaixar o pino que fica no cabeçote, como na foto;
 
-![Abaixar Cabeçote](https://github.com/fablabjoinville/playbook/tree/master/equipamentos/impressora-3d-inova-core-i200/cabecote-inova-core-i200)
+![Abaixar Cabeçote](https://raw.githubusercontent.com/fablabjoinville/playbook/master/equipamentos/impressora-3d-inova-core-i200/cabecote-inova-core-i200.png)
 
 4. Tirar todo resto de resíduo e plástico da mesa e limpar o bico de impressão, cortando o resto de filamento;
 5. Na tela, clicar na engrenagem no canto direito inferior, depois no símbolo de fogo, no canto esquerdo inferior e em seguido, pressionar na frase "ABS";
