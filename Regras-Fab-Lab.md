@@ -34,7 +34,7 @@
 * [Tutorial Kossel Mini](https://github.com/fablabjoinville/playbook/tree/master/equipamentos/impressora-3d-delta-kossel-mini)
 * [Tutorial Inova Core I200](https://github.com/fablabjoinville/playbook/tree/master/equipamentos/impressora-3d-inova-core-i200)
 
-1. Para utilizar as impressoras é necessário ter seu nome na [lista](https://github.com/fablabjoinville/playbook) de pessoas com o conhecimento;
+1. Para utilizar as impressoras é necessário ter seu nome na [lista](https://github.com/fablabjoinville/playbook/blob/master/Lista_Membros_Usar_Equipamentos.md) de pessoas com o conhecimento;
 2. Caso não tenha seu nome, só poderá operar com a supervisão de um guru (pessoa com o conhecimento avançado);
 3. Para ter o nome na lista precisa ser colocado por um guru que te ensinou ou participar do workshop de impressão 3D;
 4. Sempre depois de terminar de imprimir, desligar a impressora e o filtro de linha;
@@ -45,7 +45,7 @@
 
 * [Tutorial CNC](https://github.com/fablabjoinville/playbook/tree/master/equipamentos/fresa-cnc)
 
-1. Para utilizar a CNC é necessário ter seu nome na [lista](https://github.com/fablabjoinville/playbook) de pessoas com o conhecimento;
+1. Para utilizar a CNC é necessário ter seu nome na [lista](https://github.com/fablabjoinville/playbook/blob/master/Lista_Membros_Usar_Equipamentos.md) de pessoas com o conhecimento;
 2. Caso não tenha seu nome, só poderá operar com a supervisão de um guru (pessoa com o conhecimento avançado);
 3. Para ter o nome na lista precisa ser colocado por um guru que te ensinou ou participar do workshop de CNC;
 4. Não encostar na fresa nem mover a chapa enquanto em funcionamento;
