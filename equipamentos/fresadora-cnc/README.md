@@ -149,7 +149,7 @@ Nessa seção iremos abordar algumas funcionalidades simples do ArtCAM, focando 
 
 Com o G-code em mãos, gerado a partir da criação dos percursos no CAM, estamos prontos para usinar as peças. Para isso, revise as [normas de segurança](#normas-de-segurança) e [as dicas de uso da máquina](#antes-de-iniciar-os-trabalhos).
 
-> **NA FRESADORA:** certifique-se que a fresa correta esteja devidamente instalada. Caso precise instalar, remova a anterior com auxílio de duas chaves de boca, utilize a pinça adequada encaixando a fresa correta (como indicado no primeiro GIF), e instale a fresa novamente no spindle com as chaves de boca (como indicado no segundo GIF). Mantenha as lâminas da fresa para fora da pinça, deixando parte do corpo (ou todo o corpo) dentro.
+> **NA FRESADORA:** certifique-se que a fresa correta esteja devidamente instalada. Caso precise instalar, remova a anterior com auxílio de duas chaves de boca, utilize a pinça adequada encaixando a fresa correta (como indicado no primeiro GIF), e instale a fresa novamente no spindle com as chaves de boca (como indicado no segundo GIF) — **importante:** não é necessário apertar muito! Mantenha as lâminas da fresa para fora da pinça, deixando parte do corpo (ou todo o corpo) dentro.
 
 ![collet](collet.gif)
 
