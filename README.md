@@ -37,7 +37,7 @@ Aqui você encontra a documentaço dos principais equipamentos do laboratório.
 
 * [Impressora 3D Delta Kossel Mini](/equipamentos/impressora-3d-delta-kossel-mini/README.md)
 * [Impressora 3D Inova Core I200](https://github.com/fablabjoinville/playbook/tree/master/equipamentos/impressora-3d-inova-core-i200)
-* [Fresa CNC](https://github.com/fablabjoinville/playbook/tree/master/equipamentos/fresa-cnc)
+* [Fresadora CNC](https://github.com/fablabjoinville/playbook/tree/master/equipamentos/fresadora-cnc)
 * [Scanner 3D]()
 
 ## Workshops

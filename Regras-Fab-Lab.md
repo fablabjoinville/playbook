@@ -3,7 +3,7 @@
 * [Cultura](#cultura)
 * [Espaço Fab Lab](#espaço-fab-lab)
 * [Impressoras 3D](#impressoras-3d)
-* [Fresa CNC](#fresa-cnc)
+* [Fresadora CNC](#fresadora-cnc)
 * [Máquina de Corte](#máquina-de-corte)
 
 ## Cultura
@@ -41,9 +41,9 @@
 5. Deixar a portinha da impressora Inova fechada;
 6. Se a fita azul rasgar após a impressão, trocá-la, no caso da Impressora Delta Kossel Mini;
 
-## Fresa CNC
+## Fresadora CNC
 
-* [Tutorial CNC](https://github.com/fablabjoinville/playbook/tree/master/equipamentos/fresa-cnc)
+* [Tutorial CNC](https://github.com/fablabjoinville/playbook/tree/master/equipamentos/fresadora-cnc)
 
 1. Para utilizar a CNC é necessário ter seu nome na [lista](https://github.com/fablabjoinville/playbook/blob/master/Lista_Membros_Usar_Equipamentos.md) de pessoas com o conhecimento;
 2. Caso não tenha seu nome, só poderá operar com a supervisão de um guru (pessoa com o conhecimento avançado);
@@ -51,7 +51,7 @@
 4. Não encostar na fresa nem mover a chapa enquanto em funcionamento;
 5. Após o uso, **limpar** a máquina e o chão. **Cortar** com a serra tico-tico ou maquina de corte o que sobrar da chapa, jogando no lixo o que for desnecessário e
 guardando as partes que pode-se reutilizar;
-6. Desligar a máquina, o computador e o filtro de linha ao final do uso. 
+6. Desligar a máquina, o computador e o filtro de linha ao final do uso.
 
 ## Máquina de corte
 
@@ -61,4 +61,4 @@ guardando as partes que pode-se reutilizar;
 2. Após o uso, **limpar** a máquina e o chão. **Cortar** com a serra tico-tico o que sobrar da chapa, jogando no lixo o que for desnecessário e
 guardando as partes que pode-se reutilizar;
 3. Abaixar a serra;
-4. Desligar a máquina e o filtro de linha ao final do uso. 
+4. Desligar a máquina e o filtro de linha ao final do uso.
