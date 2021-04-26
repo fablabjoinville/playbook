@@ -1,6 +1,6 @@
 # Lista de Membros Aptos a Usar os Equipamentos
 
-* Caso você ache que deveria estar na lista, fazer um PR requesitando alteração ou entrar em contato com um bolsista.
+* Caso você ache que deveria estar na lista, fazer um PR requisitando alteração ou entrar em contato com um bolsista.
 * Para entrar na lista necessita ter o conhecimento mínimo da utilização de alguma das máquinas. Para isso, deve ser auxiliado por um guru nos seus primeiros contatos ou participar de um workshop ensinando o funcionamento, promovido pelo Fab Lab.
 
 :white_check_mark: Pode utilizar
@@ -16,3 +16,4 @@
 | 7 | Guilherme Defreitas Juraszek | :white_check_mark: | |
 | 8 | Diogo Felipe Trentini | | :white_check_mark: |
 | 9 | Thiago Strutz | :white_check_mark: | |
+| 10 | Alessandro Soares | :white_check_mark: | |
